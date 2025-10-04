@@ -24,3 +24,9 @@ The project investigates whether retail traders can capture cross-market spreads
 - Institutions with **colocation and DMA** can capture spreads reliably.  
 
 ---
+
+## 🛠️ Code Structure  
+- `scripts/QI-03-OCT-25.db` → Stream data clipped to adhere to github size restriction.  
+- `notebooks/CrossArbitrage.ipynb` → Full exploratory analysis and visualizations. 
+
+---
